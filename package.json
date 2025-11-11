@@ -1,0 +1,16 @@
+{
+  "name": "apikeya",
+  "version": "1.0.0",
+  "description": "ApiKey Create",
+  "license": "ISC",
+  "author": "Sandy Ardiyan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.15.3"
+  }
+}
